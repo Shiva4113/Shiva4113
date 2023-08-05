@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiva4113
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning C and C#
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on any projects code related
 - 📫 How to reach me : via e-mail on ==> shivagolugula123@gmail.com
 
